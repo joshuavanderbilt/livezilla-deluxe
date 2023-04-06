@@ -1,4 +1,4 @@
-task-lxde-desktop
+task-xfce-desktop
 clonezilla
 gparted
 terminator
@@ -91,3 +91,7 @@ firmware-sof-signed
 firmware-ti-connectivity
 firmware-zd1211
 intel-microcode
+xpra
+krita
+gimp
+podman
