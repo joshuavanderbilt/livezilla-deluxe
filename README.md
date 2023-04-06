@@ -1,4 +1,8 @@
 # livezilla-deluxe
+Note: this project is far from finished.
+
+
+
 Live rescue toolkit based on Debian GNU/Linux, now with more bloat.
 
 I have created a live rescue toolkit, containing useful programs such as Clonezilla, GParted, Firefox, etc. and even some games to play while you wait for a lengthy operation to complete. This is a special version of that system, with more packages included, as well as the XFCE desktop environment instead of LXDE.
@@ -17,9 +21,3 @@ If you want a tested, release version of Livezilla, download a release.
 If you want to try the absolute latest Livezilla (untested, possibly unstable), clone this repository.
 
 make sure that you are using a Debian system (can be a real computer, or a VM) with live-build and build-essential installed, then run make in the repo directory.
-
-Known problems:
-wxHexEditor does not allow the user to type the letter "t" for some reason, if you have a solution to this, please tell me in the github issues. If I can't get that working, ~~wxHexEditor will be removed after beta.~~ Change of plans, wxHexEditor is here to stay, since it's still useful for some other stuff.
-
-Sha256sum of Livezilla R1:
-958fb9eb11c877eaa74b8477646fa23da55f2f01cc283d7efaae39d2c0a79517  livezilla-r1.iso
